@@ -12,6 +12,8 @@ package prog2.Vista;
 public class IniciadorClubUB {
     // creació del objecte
     
+    //bla bla bla
+    
     public static void main(String[] args) {
         
     }
